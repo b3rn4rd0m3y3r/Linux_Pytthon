@@ -1,1 +1,12 @@
-{ "test1":"1", "test2":123, "test3":345, "test4": "Asdrubal"  }
+{
+	"test1":"1",
+	"test2":123,
+	"test3":345, 
+	"test4": "Asdrubal",
+	"itens" : { "sim": "1", "não":"-1", "neutro": "0" },
+	"veiculos": {
+		"0":{ "placa": "QUA-1119", "marca" : "Ford" },
+		"1":{ "placa": "OUL-2118", "marca" : "GM" },
+		"2":{ "placa": "VAL-4216", "marca" : "Fiat" }
+		}
+	}
